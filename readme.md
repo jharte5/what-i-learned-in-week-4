@@ -1,12 +1,12 @@
 ### What I learned in Week 4
 
-More Human Resource Machine
+## More Human Resource Machine
     *Tetracontiplier
     *Maximization Room
     *Absolute Positivity
     *Exclusive Lounge
 
-More Javascript
+## More Javascript
     *Strings
     *Return Value
     *Functions
